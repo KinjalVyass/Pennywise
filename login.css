@@ -22,7 +22,7 @@ body{
     right: 60px;
     top: 160px;
      /* background: rgba(156, 220, 245, 0.973); */
-    /* background-image: url(/images/container.jpg); */
+    background-image: url(./images/container.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 40px 30px;
