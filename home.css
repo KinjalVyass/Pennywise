@@ -5,7 +5,7 @@
 }
 #header{
     height: 100vh;
-    background-image: url(/images/homefff.png);
+    background-image: url(./images/homefff.png);
     background-position: center;
     background-size: cover;
 }
