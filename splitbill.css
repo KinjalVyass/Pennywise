@@ -7,7 +7,8 @@ body{
     /* background-color: rgb(4, 65, 65); */
     background: rgb(202, 172, 135);
     padding: 30px;
-    background-image: url(../../assets/images/mainbg.jpg);
+    background-image: url(./assets/images/mainbg.jpg);
+/*     background-image: url(../../assets/images/mainbg.jpg); */
     background-size: 100% 100%;
     
 }
